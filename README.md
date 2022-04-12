@@ -6,7 +6,7 @@ Dataset Link
 https://www.openintro.org/data/index.php?data=loans_full_schema
 
 
-Link to the visualizations 
+Link to the visualizations. It constains 5 visualizations in different tabs. Please review the visualization by clicking on the tabs. 
 
 https://public.tableau.com/app/profile/nikita.goel/viz/casestudy1_16497261047750/visualization1_1
 
